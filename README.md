@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1X12gHStfr2sC_0-_uAXe3UaPZFUdqgb6g&s" alt="norouzi Logo" width="120">
+  <img src="./logo.png" alt="norouzi Logo" width="140">
 </p>
 
 <h1 align="center">Hello! I'm MohammadHossein Norouzi 👋</h1>
