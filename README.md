@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="norouzi Logo" width="140">
+  <img src="./logo-Norouzi.png" alt="norouzi Logo" width="140">
 </p>
 
 <h1 align="center">Hello! I'm MohammadHossein Norouzi 👋</h1>
